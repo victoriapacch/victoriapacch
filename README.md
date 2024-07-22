@@ -1,7 +1,9 @@
-Seja bem-vindo ao meu perfil! Eu sou Victoria Pacheco
+Olá! Meu nome é Victoria Pacheco
 
-- 🔭 Atualmente estou trabalhando como Desenhista e estou em transição de carreira para Programadora Backend
-- 🌱 Estudando Python
+- Atualmente trabalhando como Desenhista Jr
+- Estou tentando transição de carreira para Desenvolvedora Jr
+- Adquirindo conhecimentos em Python
+- Cursando Análise e Desenvolvimento de Sistemas (2º Período)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
