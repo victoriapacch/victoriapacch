@@ -5,31 +5,34 @@
 - Acquiring knowledge of Python
 - Studying Systems Analysis and Development (2nd Period)
 
-###
+##
 
-<br clear="both">
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victoriapacch&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriapacch&layout=compact&langs_count=10&theme=dark"/>
 
-<img align="right" height="150" src="https://img.freepik.com/free-vector/hand-drawn-human-brain_53876-15740.jpg?t=st=1722026762~exp=1722030362~hmac=8f75c3aa6b9238eb781dd85d920d0878b1b14ea81fd5990dcd21c96f18f488b9&w=740"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
-  
-  ##
+
+##
+
+<div align="center" valign="top"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://www.svgrepo.com/show/452091/python.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="github" height="35" width="35" src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png">
+</div><br>
  
-<div> 
-  
+<div align="center">
   <a href="https://www.linkedin.com/in/victoriapereiraeng/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:victoriapereiraeng@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/victoriapacch/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
 </div>
 
+<div align="center">
+
+</div>
