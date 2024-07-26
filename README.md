@@ -1,6 +1,6 @@
 <h2 align="left"> Hi! My name's Victoria Pacheco, I'm from Brazil</h2>
 
-- Currently working as a Jr. Designer
+- Currently working as a Jr. Designer at Baumer S.A
 - Trying to transition career to Jr Developer
 - Acquiring knowledge of Python
 - Studying Systems Analysis and Development (2nd Period)
@@ -8,8 +8,8 @@
 ##
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victoriapacch&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriapacch&layout=compact&langs_count=10&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=victoriapacch&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriapacch&layout=compact&langs_count=10&theme=dark"/>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
