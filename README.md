@@ -6,15 +6,15 @@
 - Studying Systems Analysis and Development (2nd Period)
 
 ##
-
+<br>
 <div align="center">
+  
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=victoriapacch&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriapacch&layout=compact&langs_count=10&theme=dark"/>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
 
-##
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://www.svgrepo.com/show/452091/python.svg">
