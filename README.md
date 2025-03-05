@@ -3,7 +3,7 @@
 - Currently working as a Jr. Designer at Baumer S.A
 - Trying to transition career to Jr Developer
 - Acquiring knowledge of Python
-- Studying Systems Analysis and Development (2nd Period)
+- Studying Systems Analysis and Development (3nd Period)
 
 ##
 <br>
