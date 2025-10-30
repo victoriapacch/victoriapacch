@@ -1,6 +1,6 @@
 <h2 align="left"> Hey! My name's Victoria, I'm from Brazil</h2>
 
-- Currently working as a Jr. Designer at Baumer S.A
+- Currently working as a Designer at Baumer S.A
 - Trying to transition career to Jr Developer
 - Acquiring knowledge of Python
 - Studying Systems Analysis and Development (5nd Period)
