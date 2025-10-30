@@ -1,4 +1,4 @@
-<h2 align="left"> Hi! My name's Victoria Pacheco, I'm from Brazil</h2>
+<h2 align="left"> Hey! My name's Victoria, I'm from Brazil</h2>
 
 - Currently working as a Jr. Designer at Baumer S.A
 - Trying to transition career to Jr Developer
